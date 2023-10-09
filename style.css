@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  padding: 50px 100px;
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+#container {
+  text-align: center;
+  background-color: maroon;
+  padding: 20px;
+  margin-left: 450px;
+  width: 500px;
+  height: 500px;
+  border: 2px solid;
+  box-shadow: rgba(92, 91, 91, 0.25) 0px 54px 55px,
+    rgba(131, 128, 128, 0.12) 0px -12px 30px,
+    rgba(109, 107, 107, 0.12) 0px 4px 6px,
+    rgba(143, 141, 141, 0.17) 0px 12px 13px,
+    rgba(126, 125, 125, 0.09) 0px -3px 5px;
+}
+input-iv {
+  display: inline-block;
+}
+
+.inp {
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 30px;
+  float: bold;
+  text-align: center;
+}
+
+label {
+  font-size: 22px;
+  font-weight: bold;
+}
